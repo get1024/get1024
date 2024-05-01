@@ -1,4 +1,9 @@
-# Hi there 👋
+<div id="header" align="center">
+  <h1>
+    Hey, I'm RyanJoy!
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </h1>
+</div>
 
 ## About Me
 
@@ -19,3 +24,19 @@
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=get1024&theme=vue"/>
 </div>
+<div align="center">
+  <img src="https://github-readme-stats-beta-amber-44.vercel.app/api?username=get1024&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&locale=zh-my"/>
+</div>
+<table>
+  <tr>
+    <td >
+        <center><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=get1024&theme=default" ></center>
+    </td>
+    <td >
+        <center><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=get1024&theme=default&utcOffset=8" align="right" /></center>
+    </td>
+    <td >
+        <center><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=get1024&theme=default" align="right" /></center>
+    </td>
+  </tr>
+</table>
