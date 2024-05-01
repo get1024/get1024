@@ -12,5 +12,10 @@
 
 ### Star History
 
-<span align="center">![Star History Chart](https://api.star-history.com/svg?repos=get1024/starship_custom,get1024/get1024,get1024/RyanJoy-s_Web,get1024/jy-movie&type=Date)</span>
-<span align="center">![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=get1024&theme=vue)</span>
+<div align="center">
+  <img src="https://api.star-history.com/svg?repos=get1024/starship_custom,get1024/get1024,get1024/RyanJoy-s_Web,get1024/jy-movie&type=Date"/>
+</div>
+
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=get1024&theme=vue"/>
+</div>
