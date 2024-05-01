@@ -12,6 +12,6 @@
 
 ### Star History
 
-![](https://star-history.com/#get1024/starship_custom&get1024/get1024&get1024/RyanJoy-s_Web&get1024/jy-movie&Timeline)
+![Star History Chart](https://api.star-history.com/svg?repos=get1024/starship_custom,get1024/get1024,get1024/RyanJoy-s_Web,get1024/jy-movie&type=Date)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=get1024&theme=vue)
