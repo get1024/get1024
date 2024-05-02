@@ -1,3 +1,4 @@
+
 <div id="header" align="center">
   <h3 style="font-size:30px">
     Hi there, I'm <a href="https://get1024.github.io/RyanJoy-s_Web/">RyanJoy</a>！
@@ -5,8 +6,8 @@
   </h3>
 </div>
 
-![followers](https://img.shields.io/github/followers/get1024?style=social)
-![stars](https://img.shields.io/github/stars/get1024?style=social)
+<img src="https://img.shields.io/github/followers/get1024?style=social"/>
+<img src="https://img.shields.io/github/stars/get1024?style=social"/>
 
 <div align="center" style="font-size:30px;">
   <span>Congratulations! You are the</span>
@@ -17,6 +18,7 @@
 
 <h3 style="font-size:30px;font-weight:bold;">🙋‍♂️About Me</h3>
 
+<p>
 My English name is RyanJoy, you can call me Xiao Ye (小业).
 
 I am an undergraduate software engineering student currently preparing for graduate school and may not be able to update my Github projections/pages in time. 
@@ -24,6 +26,7 @@ I am an undergraduate software engineering student currently preparing for gradu
 I love and would love to try out all open source projects, and if I am lucky enough to join, I will contribute as much as I can. My small dream of the stage is to pass the graduate exam and then strive to become a front-end designer & engineer (considering the popularity of AI in the future, the necessary status of front-end engineers is at stake).
 
 I've always wanted to do something interesting, be an interesting person, and make a contribution to other programmers like me...
+</p>
 
 - 👨‍🎓Currently preparing for postgraduate examination;
 - I love 👨‍💻programming, 🏋️working out, 🎧listening to music, and am eager to have a successful 💰career, a happy 🏘️family, and lots of good 🧑‍🤝‍🧑friends;
@@ -70,5 +73,5 @@ I've always wanted to do something interesting, be an interesting person, and ma
 </table>
 <hr/><br/>
 
-> [!warning] Want to use my `README.md` file as a template?
+> [!TIP] Want to use my `README.md` file as a template?
 > Open your powershell and run this: `git clone git@github.com:get1024/get1024.git`.
