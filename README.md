@@ -77,5 +77,6 @@ I've always wanted to do something interesting, be an interesting person, and ma
 </table>
 <hr/><br/>
 
-> [!TIP] Want to use my `README.md` file as a template?
+> [!TIP] 
+> Want to use my `README.md` file as a template?
 > Open your powershell and run this: `git clone git@github.com:get1024/get1024.git`.
