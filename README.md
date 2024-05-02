@@ -1,22 +1,23 @@
 
 <div id="header" align="center">
-  <h3 style="font-size:30px">
+  <h1>
     Hi there, I'm <a href="https://get1024.github.io/RyanJoy-s_Web/">RyanJoy</a>！
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h3>
+  </h1>
 </div>
+<br/>
 
-<img src="https://img.shields.io/github/followers/get1024?style=social"/>
-<img src="https://img.shields.io/github/stars/get1024?style=social"/>
-
-<div align="center" style="font-size:30px;">
-  <span>Congratulations! You are the</span>
+<div align="center">
+<img src="https://img.shields.io/github/followers/get1024?style=social"/> <img src="https://img.shields.io/github/stars/get1024?style=social"/>
+<h3>Congratulations! You are the</h3>
   <img src="https://profile-counter.glitch.me/{get1024}/count.svg" alt="get1024 :: Visitor's Count" style="vertical-align:middle;"/>st
-  <span>visitor!</span>
+  <h3>visitor!</h3>
+  <br/>
 </div>
-<hr/>
 
-<h3 style="font-size:30px;font-weight:bold;">🙋‍♂️About Me</h3>
+<hr/><br/>
+
+<h1>🙋‍♂️About Me</h1>
 
 <p>
 My English name is RyanJoy, you can call me Xiao Ye (小业).
@@ -34,7 +35,8 @@ I've always wanted to do something interesting, be an interesting person, and ma
   - 📧Email: 2025050361@henu.edu.cn；18903803658@163.com
   - 🛰WeChat: 18903803658
 
-<h3 style="font-size:30px;font-weight:bold;">🛠️Tech Stack</h3>
+<br/>
+<h1>🛠️Tech Stack</h1>
 
 ### Language
 
@@ -59,7 +61,9 @@ I've always wanted to do something interesting, be an interesting person, and ma
 <code><img src="http://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=intellijidea&logoColor=white"/></code>
 <code><img src="http://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visualstudiocode&logoColor=3aa7f2"/></code>
 
-<h3 style="font-size:30px;font-weight:bold;">📈My GitHub statistics</h3>
+
+<br/>
+<h1>📈My GitHub statistics</h1>
 
 <table>
   <tr>
