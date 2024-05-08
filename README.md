@@ -1,8 +1,8 @@
 
 <div id="header" align="center">
   <h1>
-    Hi there, I'm <a href="https://get1024.github.io/RyanJoy-s_Web/">RyanJoy</a>！
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+    <a href="https://get1024.github.io/RyanJoy-s_Web/"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&pause=1000&color=000000&center=true&vCenter=true&random=false&width=900&height=70&lines=Hi+there%2C+I'm+RyanJoy!%F0%9F%91%8B" alt="Typing SVG" /></a>
+    <!-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> -->
   </h1>
 </div>
 <br/>
@@ -68,13 +68,21 @@ I've always wanted to do something interesting, be an interesting person, and ma
 <table>
   <tr>
     <td>
-      <center><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=get1024&theme=default&utcOffset=8" align="right" /></center>
+      <!-- <center><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=get1024&theme=default&utcOffset=8" align="right" /></center> -->
+      <center>
+      <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=get1024&layout=compact&hide_border=true" align="left"/></center>
     </td>
     <td>
-      <center><img src="https://github-readme-stats.vercel.app/api?username=get1024&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&locale=cn&theme=radical&hide_border=true&show_owner=true" align="right"/></center>
+      <center><img src="https://github-readme-stats.vercel.app/api?username=get1024&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&hide_border=true&show_owner=true" align="right"/></center>
     </td>
   </tr>
 </table>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=get1024&theme=buefy&hide_border=true&locale=zh_Hans&date_format=%5BY.%5Dn.j" alt="GitHub Streak" />
+</div>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=get1024&bg_color=f7f7f7&color=000000&line=6b84ff&point=1b46c5&area=true&hide_border=true" />
+</div>
 <hr/><br/>
 
 > [!TIP] 
