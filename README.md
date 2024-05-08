@@ -71,7 +71,7 @@ I've always wanted to do something interesting, be an interesting person, and ma
       <center><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=get1024&theme=default&utcOffset=8" align="right" /></center>
     </td>
     <td>
-      <center><img src="https://github-readme-stats-beta-amber-44.vercel.app/api?username=get1024&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&locale=zh-my" align="right" /></center>
+      <center><img src="https://github-readme-stats.vercel.app/api?username=get1024&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&locale=cn&theme=radical&hide_border=true&show_owner=true" align="right"/></center>
     </td>
   </tr>
 </table>
