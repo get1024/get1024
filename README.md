@@ -14,9 +14,8 @@
   <h3>visitor!</h3>
   <br/>
 </div>
-
-<hr/><br/>
-
+<h2></h2>
+<br/>
 <h1>🙋‍♂️About Me</h1>
 
 <p>
@@ -83,7 +82,8 @@ I've always wanted to do something interesting, be an interesting person, and ma
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=get1024&bg_color=ffffff&color=000000&line=758cff&point=5b59e8&area=true&hide_border=true" />
 </div>
-<hr/><br/>
+<h2></h2>
+<br/>
 
 > [!TIP] 
 > Want to use my `README.md` file as a template?
