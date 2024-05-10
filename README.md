@@ -37,29 +37,71 @@ I've always wanted to do something interesting, be an interesting person, and ma
 <br/>
 <h1>🛠️Tech Stack</h1>
 
-### Language
+### Back End
 
-<code><img src="http://img.shields.io/badge/-Java-e8892f?style=flat-square&logo=java&logoColor=white"/></code>
-<code><img src="http://img.shields.io/badge/-Sql-00758f?style=flat-square&logo=Mysql&logoColor=white"/></code>
-<code><img src="http://img.shields.io/badge/-Javascript-fcd400?style=flat-square&logo=javascript&logoColor=black"/></code>
-<code><img src="http://img.shields.io/badge/-Html-e24c27?style=flat-square&logo=html5&logoColor=white"/></code>
-<code><img src="http://img.shields.io/badge/-Css-2a65f1?style=flat-square&logo=css3&logoColor=white"/></code>
-<code><img src="http://img.shields.io/badge/-Typescript-3178c6?style=flat-square&logo=typescript&logoColor=white"/></code>
-<code><img src="http://img.shields.io/badge/-Shell-c9c9c9?style=flat-square&logo=gnu-bash&logoColor=black"/></code>
-<code><img src="http://img.shields.io/badge/-Python-346e9e?style=flat-square&logo=python&logoColor=white"/></code>
-<code><img src="http://img.shields.io/badge/-Markdown-white?style=flat-square&logo=markdown&logoColor=black"/></code>
+<p>
+  <img src="https://img.shields.io/badge/-Spring-6DB33F?logo=Spring&logoColor=FFF" alt="Spring" style="display: inline-block;" />&nbsp;
+  <img src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=Spring-Boot&logoColor=FFF" alt="Spring Boot" style="display: inline-block;" />&nbsp;
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=MySQL&logoColor=FFF" alt="MySQL" style="display: inline-block;" />&nbsp;
+  <img src="https://img.shields.io/badge/-Redis-DC382D?logo=Redis&logoColor=FFF" alt="Redis" style="display: inline-block;" />&nbsp;
+  <img src="https://img.shields.io/badge/-Tomcat-F8DC75?logo=Apache-Tomcat&logoColor=000" alt="Tomcat" style="display: inline-block;" />&nbsp;
+  <img src="https://img.shields.io/badge/-Maven-C71A36?logo=Apache-Maven&logoColor=FFF" alt="Maven" style="display: inline-block;" />&nbsp;
+  <img src="https://img.shields.io/badge/-Spring%20Security-6DB33F?logo=Spring-Security&logoColor=FFF" alt="Spring Security" style="display: inline-block;" />&nbsp;
+  <img src="https://img.shields.io/badge/-JSON-000?logo=JSON&logoColor=FFF" alt="JSON" style="display: inline-block;" />&nbsp;
+  <img src="https://img.shields.io/badge/-JWT-000?logo=JSON-Web-Tokens&logoColor=FFF" alt="JWT" style="display: inline-block;" />&nbsp;
+  <img src="https://img.shields.io/badge/-Java-F78C40?logo=OpenJDK&logoColor=FFF" alt="Java" style="display: inline-block;" />&nbsp;
+  <img src="https://img.shields.io/badge/-Python-A9A9A9?logo=Python&logoColor=3776AB" alt="Python" style="display: inline-block;" />&nbsp;
+  <img src="https://img.shields.io/badge/-Android-C0C0C0?logo=Android&logoColor=3DDC84" alt="Android" style="display: inline-block;" />&nbsp;
+</p>
 
-### Frameworks and Tools
+### Front End
 
-<code><img src="http://img.shields.io/badge/-Springboot-629e3a?style=flat-square&logo=springboot&logoColor=white"/></code>
-<code><img src="http://img.shields.io/badge/-Vue.js-41b883?style=flat-square&logo=vue.js&logoColor=white"/></code>
-<code><img src="http://img.shields.io/badge/-Mysql-white?style=flat-square&logo=mysql"/></code>
-<code><img src="http://img.shields.io/badge/-Git-white?style=flat-square&logo=git"/></code>
-<code><img src="http://img.shields.io/badge/-Maven-white?style=flat-square&logo=apachemaven&logoColor=bc2043"/></code>
-<code><img src="http://img.shields.io/badge/-Npm-white?style=flat-square&logo=npm&logoColor=white"/></code>
-<code><img src="http://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=intellijidea&logoColor=white"/></code>
-<code><img src="http://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visualstudiocode&logoColor=3aa7f2"/></code>
+<p>
+  <img src="https://img.shields.io/badge/-Vue3-C0C0C0?logo=Vue.js&logoColor=4FC08D" alt="Vue3" style="display: inline-block;" />&nbsp;
+  <img src="https://img.shields.io/badge/-TypeScript-C0C0C0?logo=TypeScript&logoColor=3178C6" alt="TypeScript" style="display: inline-block;" />&nbsp;
+  <img src="https://img.shields.io/badge/-Node.js-D3D3D3?logo=Node.js&logoColor=339933" alt="Node.js" style="display: inline-block;" />&nbsp;
+  <img src="https://img.shields.io/badge/-Vite-D3D3D3?logo=Vite&logoColor=646CFF" alt="Vite" style="display: inline-block;" />&nbsp;
+  <img src="https://img.shields.io/badge/-NPM-C0C0C0?logo=npm&logoColor=CB3837" alt="NPM" style="display: inline-block;" />&nbsp;
+  <img src="https://img.shields.io/badge/-Axios-C0C0C0?logo=Axios&logoColor=5A29E4" alt="Axios" style="display: inline-block;" />&nbsp;
+  <img src="https://img.shields.io/badge/-ECharts-C0C0C0?logo=Apache-ECharts&logoColor=AA344D" alt="ECharts" style="display: inline-block;" />&nbsp;
+  <img src="https://img.shields.io/badge/-JavaScript-A9A9A9?logo=JavaScript&logoColor=F7DF1E" alt="JavaScript" style="display: inline-block;" />&nbsp;
+  <img src="https://img.shields.io/badge/-HTML5-A9A9A9?logo=HTML5&logoColor=E34F26" alt="HTML5" style="display: inline-block;" />&nbsp;
+  <img src="https://img.shields.io/badge/-CSS3-A9A9A9?logo=CSS3&logoColor=1572B6" alt="CSS3" style="display: inline-block;" />&nbsp;
+</p>
 
+### DevOps
+
+<p>
+  <img src="https://img.shields.io/badge/-Git-F05032?logo=Git&logoColor=FFF" alt="Git" style="display: inline-block;" />&nbsp;
+  <img src="https://img.shields.io/badge/-GitHub-181717?logo=GitHub&logoColor=FFF" alt="GitHub" style="display: inline-block;" />&nbsp;
+  <img src="https://img.shields.io/badge/-Gitee-C71D23?logo=Gitee&logoColor=FFF" alt="Gitee" style="display: inline-block;" />&nbsp;
+  <img src="https://img.shields.io/badge/-GitLab-FC6D26?logo=GitLab&logoColor=FFF" alt="gitlab" style="display: inline-block;" />&nbsp;
+  <img src="https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=GitHub-Actions&logoColor=FFF" alt="GitHub Actions" style="display: inline-block;" />&nbsp;
+  <img src="https://img.shields.io/badge/-Ubuntu-E95420?logo=Ubuntu&logoColor=FFF" alt="Ubuntu" style="display: inline-block;" />&nbsp;
+</p>
+
+### Development Tools
+
+<p>
+  <img src="https://img.shields.io/badge/-Intellij%20IDEA-000?logo=Intellij-IDEA&logoColor=FFF" alt="Intellij IDEA" style="display: inline-block;" />&nbsp;
+  <img src="https://img.shields.io/badge/-Eclipse-2C2255?logo=Eclipse&logoColor=FFF" alt="Eclipse" style="display: inline-block;" />&nbsp;
+  <img src="https://img.shields.io/badge/-WebStorm-000?logo=WebStorm&logoColor=FFF" alt="WebStorm" style="display: inline-block;" />&nbsp;
+  <img src="https://img.shields.io/badge/-PyCharm-C0C0C0?logo=PyCharm&logoColor=000" alt="PyCharm" style="display: inline-block;" />&nbsp;
+  <img src="https://img.shields.io/badge/-Android%20Studio-C0C0C0?logo=Android-Studio&logoColor=3DDC84" alt="Android Studio" style="display: inline-block;" />&nbsp;
+  <img src="https://img.shields.io/badge/-VSCode-C0C0C0?logo=Visual-Studio-Code&logoColor=007ACC" alt="VSCode" style="display: inline-block;" />&nbsp;
+  <img src="https://img.shields.io/badge/Obsidian-rgb(141%2C69%2C184)?style=flat&logo=obsidian" alt="VSCode" style="display: inline-block;" />&nbsp;
+  <img src="https://img.shields.io/badge/Navicat-rgb(236%2C192%2C72)?style=flat&logo=Navicat" alt="VSCode" style="display: inline-block;" />&nbsp;
+  <img src="https://img.shields.io/badge/Notion-FFF?style=flat&logo=Notion&logoColor=black" alt="VSCode" style="display: inline-block;" />&nbsp;
+</p>
+
+### Others
+
+<p>
+  <img src="https://img.shields.io/badge/-Markdown-000?logo=Markdown&logoColor=FFF" alt="Markdown" style="display: inline-block;" />&nbsp;
+  <img src="https://img.shields.io/badge/VitePress-green?style=plastic&logo=vitepress&logoColor=white&labelColor=green&color=green
+  " alt="VitePress" style="display: inline-block;" />&nbsp;
+  <img src="https://img.shields.io/badge/-GitHub%20Pages-222?logo=GitHub-Pages&logoColor=FFF" alt="GitHub Pages" style="display: inline-block;" />&nbsp;
+</p>
 
 <br/>
 <h1>📈My GitHub statistics</h1>
