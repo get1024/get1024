@@ -30,9 +30,7 @@ I've always wanted to do something interesting, be an interesting person, and ma
 
 - 👨‍🎓Currently preparing for postgraduate examination;
 - I love 👨‍💻programming, 🏋️working out, 🎧listening to music, and am eager to have a successful 💰career, a happy 🏘️family, and lots of good 🧑‍🤝‍🧑friends;
-- If you want to contact me, you can click [here](https://get1024.github.io/RyanJoy-s_Web/about_me/reach_me.html), or you can choose a contact method **you prefer** on the left side of my personal page. If you **don't** like **any of the above methods**, here are the rest of my emails and my phone number. I hope you like them(u must!🤬):
-  - 📧Email: 2025050361@henu.edu.cn；18903803658@163.com
-  - 🛰WeChat: 18903803658
+- If you want to contact me, you can click **[here🔗](https://get1024.github.io/RyanJoy-s_Web/about_me/reach_me.html)**, or you can choose a contact method **you prefer** on the left side of my **[personal page🙋‍♂️](https://github.com/get1024)**. 
 
 <br/>
 <h1>🛠️Tech Stack</h1>
