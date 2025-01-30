@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=get1024&theme=darcula" width="90%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=get1024&theme=darcula" width="100%" />
   
   <div style="display: flex; justify-content: space-between; width: 90%; margin-top: 10px;">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=get1024&theme=darcula" width="49%" />
