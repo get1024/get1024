@@ -4,11 +4,11 @@
 </div>
 
 <div style="width: 90%; margin: 0 auto;">
-  <div style="text-align: center;">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=get1024&theme=darcula" style="width: 100%;" />
-  </div>
-  <div style="text-align: center; font-size: 0;">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=get1024&theme=darcula" style="width: 50%; display: inline-block;" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=get1024&theme=darcula&utcOffset=8" style="width: 50%; display: inline-block;" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=get1024&theme=darcula" style="width: 100%" />
+
+
+  <div style="display: flex; justify-content: center; gap: 2px; margin-top: 5px">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=get1024&theme=darcula" style="width: 49.8%" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=get1024&theme=darcula&utcOffset=8" style="width: 49.8%" />
   </div>
 </div>
