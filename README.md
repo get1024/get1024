@@ -7,7 +7,7 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=get1024&theme=darcula" width="100%" />
   
   <div style="display: flex; justify-content: space-between; width: 90%; margin-top: 10px;">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=get1024&theme=darcula" width="49%" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=get1024&theme=darcula&utcOffset=8" width="49%" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=get1024&theme=darcula" width="50%" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=get1024&theme=darcula&utcOffset=8" width="50%" />
   </div>
 </div>
