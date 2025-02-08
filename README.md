@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&pause=1000&color=000000&center=true&vCenter=true&random=false&width=900&height=70&lines=Hi+there%2C+I'm+RyanJoy!%F0%9F%91%8B" alt="Typing SVG" />
 </div>
 
-<img width="270" align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=get1024&theme=darcula&utcOffset=8">
+<img width="350" align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=get1024&theme=darcula&utcOffset=8">
 
 I am a master's student from China who enjoys all interesting projects and hopes to create some influential open source projects.
 - 🔭 I am currently working on some amateur [open source projects](https://github.com/get1024?tab=repositories).
