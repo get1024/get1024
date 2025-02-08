@@ -1,33 +1,10 @@
-<style>
-.page-container {
-  display: flex;
-  flex-direction: row;
-  align-items: flex-start;
-}
-
-.text-content {
-  flex: 1;
-}
-
-.images-container {
-  display: flex;
-  flex-direction: column;
-  align-items: flex-end;
-  margin-left: 20px; /* 给文字和图片之间增加间距 */
-}
-
-.images-container img{
-  margin-top:10px
-}
-
-</style>
 
 <div id="header" align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&pause=1000&color=000000&center=true&vCenter=true&random=false&width=900&height=70&lines=Hi+there%2C+I'm+RyanJoy!%F0%9F%91%8B" alt="Typing SVG" />
 </div>
 <p>I am a master's student from China who enjoys all interesting projects and hopes to create some influential open source projects.</p>
-<div class="page-container">
-  <div class="text-content">
+<div class="page-container" style="display: flex;flex-direction: row;align-items: flex-start;">
+  <div class="text-content" style="flex: 1;">
     <ul>
       <li>🔭 I am currently working on some amateur <a href="https://github.com/get1024?tab=repositories">open source projects</a>.</li>
       <li>🌱 I am currently studying the relevant knowledge of artificial intelligence and want to learn all interesting things.</li>
@@ -38,9 +15,12 @@
     </ul>
   </div>
 
-  <div class="images-container">
+  <div class="images-container" style="display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  margin-left: 20px;">
     <img width="200" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=get1024&theme=darcula&utcOffset=8">
-    <img width="200" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=get1024&theme=darcula">
+    <img width="200" style="margin-top:10px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=get1024&theme=darcula">
   </div>
 </div>
 
