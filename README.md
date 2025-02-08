@@ -10,17 +10,17 @@ I am a master's student from China who enjoys all interesting projects and hopes
 
 - 🌱 I am currently studying the relevant knowledge of artificial intelligence and want to learn all interesting things.
 
-- 🤔 I currently don't have a clear life plan, and my movie script doesn't have any lines yet……☹️
+- 🤔 I currently don't have a clear life plan, and my movie script doesn't have any lines yet……☹️.
 
-- ❤️ I enjoy quiet solitude and listening to R&B and blues music;
+- ❤️ I enjoy quiet solitude and listening to R&B and blues music.
 
-- 💪🏼I often exercise, but compared to anaerobic exercise, I prefer jogging and skipping rope
+- 💪🏼 I often exercise, but compared to anaerobic exercise, I prefer jogging and skipping rope.
 
 - 💬 Please feel free to ask me any questions [here](https://github.com/get1024/get1024/issues).
 
----
-
 <img align="right" width="450" src="https://github-readme-stats.vercel.app/api?username=get1024&rank_icon=github&show_icons=true&show=prs_merged"/>
+
+---
 
 #### Languages
 
