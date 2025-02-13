@@ -1,4 +1,4 @@
 git add .
-git commit -m "docs(README.md):update my readme"
+git commit -m "Auto commit on $(date +'%Y-%m-%d %H:%M:%S')"
 git pull origin main
 git push origin main
