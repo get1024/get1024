@@ -18,7 +18,7 @@ I am a master's student from China who enjoys all interesting projects and hopes
 
 - 💬 Please feel free to ask me any questions [here](https://github.com/get1024/get1024/issues).
 
-<img align="right" width="450" src="https://github-readme-stats.vercel.app/api?username=get1024&rank_icon=github&show_icons=true&show=prs_merged"/>
+<img align="right" width="450" src="https://github-readme-stats.vercel.app/api?username=get1024&include_all_commits=true&show_icons=true&show=discussions_started&theme=transparent&hide_border=true&rank_icon=percentile"/>
 
 ---
 
