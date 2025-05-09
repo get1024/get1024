@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&duration=3000&pause=1500&color=F39415&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+RyanJoy+%EF%BC%81%F0%9F%91%8B" alt="Typing SVG" />
 </div>
 
-<img align="right" width="450" src="https://github-readme-stats.vercel.app/api?username=get1024&include_all_commits=false&show_icons=true&theme=transparent&hide_border=true&rank_icon=default"/>
+<img align="right" width="450" src="https://github-readme-stats.vercel.app/api?username=get1024&count_private=true&show_icons=true&rank_icon=default&theme=transparent&hide_border=true&include_all_commits=false"/>
 
 I am a master's student from China who enjoys all interesting projects and hopes to create some influential open source projects.
 - 💻 Full stack developer.
@@ -11,30 +11,15 @@ I am a master's student from China who enjoys all interesting projects and hopes
 - 💬 Please feel free to ask me any questions [here](https://github.com/get1024/get1024/issues).
 - 👋 BTW, DM to me are also welcome.
 
----
-
-#### Languages
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript" /></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="typescript" /></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css" /></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html" /></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs" /></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python" /></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="C++" /></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" alt="python" /></code>
-
-#### Frameworks and Tools
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" alt="vue" /></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git" /></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="visual-studio-code" /></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/macos/macos.png" alt="macos" /></code>
-<code><img height="20" src="https://vitejs.dev/logo.svg" alt="vite" /></code>
-<code><img height="20" src="https://vitepress.dev/vitepress-logo-large.webp" alt="vite" /></code>
-
----
-
 [Blog](https://blog.ryanjoy.top) | [Twitter/X](https://x.com/RyanJoy2002) | [Telegram](https://t.me/RyanJoy2002)
+
+---
+
+<p align="center">
+  <a>
+    <img src="https://skillicons.dev/icons?i=ts,html,css,js,vue,py,cpp,cmake,cs,go,java,md,qt,threejs,mysql,nodejs,npm,pnpm,cloudflare,git,notion,obsidian,powershell,vim,vite,vitest" />
+  </a>
+</p>
+
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=get1024&theme=darcula" width="100%" />
