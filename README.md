@@ -30,9 +30,10 @@ I am a master's student from China who enjoys all interesting projects and hopes
 |:-:|:-:|
 
 [<img src="/metrics.plugin.activity.svg" align="left" width="50%"/>](#)
-[<img src="/metrics.plugin.habits.charts.svg" align="left" width="50%"/>](#)
 [<img src="/metrics.plugin.calendar.full.svg" align="right" width="50%"/>](#)
 [<img src="/metrics.plugin.isocalendar.fullyear.svg" align="right" width="50%"/>](#)
+
+[<img src="/metrics.plugin.habits.charts.svg" align="left" width="50%"/>](#)
 [<img src="/metrics.plugin.habits.facts.svg" align="right" width="50%"/>](#)
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=get1024&theme=darcula" width="100%" />
