@@ -13,6 +13,8 @@ I am a master's student from China who enjoys all interesting projects and hopes
 - 👋 BTW, DM to me are also welcome.
 - 📈 Self-growth addict.
 
+---
+
 | [Blog](https://blog.ryanjoy.top) | [Twitter/X](https://x.com/RyanJoy2002) | [Telegram](https://t.me/RyanJoy2002) | [Email](mailto:ryanjoy2002@gmail.com) |
 |:-:|:-:|:-:|:-:|
 
@@ -23,6 +25,7 @@ I am a master's student from China who enjoys all interesting projects and hopes
     <img src="https://skillicons.dev/icons?i=ts,html,css,js,vue,py,cpp,cmake,cs,go,java,md,qt,threejs,mysql,nodejs,npm,pnpm,cloudflare,git,notion,obsidian,powershell,vim,vite,vitest" />
   </a>
 </p>
+
 
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=get1024&theme=darcula" width="100%" />
