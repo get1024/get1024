@@ -26,7 +26,7 @@ I am a master's student from China who enjoys all interesting projects and hopes
   </a>
 </p><br/>
 
-| [![activity](/metrics.plugin.activity.svg)](#)[![habits](/metrics.plugin.habits.charts.svg)](#)[![habits](/metrics.plugin.habits.facts.svg)](#) | [![Metrics2](/metrics.plugin.calendar.full.svg)](#)[![Metrics4](/metrics.plugin.isocalendar.fullyear.svg)](#) |
+| [![activity](/metrics.plugin.activity.svg)](#)[![habits](/metrics.plugin.habits.charts.svg)](#) | [![Metrics2](/metrics.plugin.calendar.full.svg)](#)[![Metrics4](/metrics.plugin.isocalendar.fullyear.svg)](#) |
 |:-:|:-:|
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=get1024&theme=darcula" width="100%" />
