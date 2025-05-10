@@ -6,12 +6,19 @@
 <img align="right" width="450" src="https://github-readme-stats-ten-iota-23.vercel.app/api?username=get1024&show_icons=true&rank_icon=default&theme=transparent&hide_border=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&title_color=F39415&icon_color=FF933D&text_color=FFC83D"/>
 
 I am a master's student from China who enjoys all interesting projects and hopes to create some influential open source projects.
+
+---
+
 - 💻 Full stack developer.
 - 💗 Love creating things.
 - 💬 Please feel free to ask me any questions [here](https://github.com/get1024/get1024/issues).
 - 👋 BTW, DM to me are also welcome.
+- 📈 <span style="font-color:#FF113D">Self-growth addict.</span>
 
-[Blog](https://blog.ryanjoy.top) | [Twitter/X](https://x.com/RyanJoy2002) | [Telegram](https://t.me/RyanJoy2002) | [Email](mailto:ryanjoy2002@gmail.com)
+
+| [Blog](https://blog.ryanjoy.top) | [Twitter/X](https://x.com/RyanJoy2002) |
+|:-:|:-:|
+| [**Telegram**](https://t.me/RyanJoy2002) | [**Email**](mailto:ryanjoy2002@gmail.com) |
 
 ---
 
