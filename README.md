@@ -26,6 +26,6 @@ I am a master's student from China who enjoys all interesting projects and hopes
   </a>
 </p>
 
-
+![Metrics](/github-metrics.svg)
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=get1024&theme=darcula" width="100%" />
