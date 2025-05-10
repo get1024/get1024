@@ -13,12 +13,10 @@ I am a master's student from China who enjoys all interesting projects and hopes
 - 💗 Love creating things.
 - 💬 Please feel free to ask me any questions [here](https://github.com/get1024/get1024/issues).
 - 👋 BTW, DM to me are also welcome.
-- 📈 <span style="font-color:#FF113D">Self-growth addict.</span>
+- 📈 Self-growth addict.
 
-
-| [Blog](https://blog.ryanjoy.top) | [Twitter/X](https://x.com/RyanJoy2002) |
-|:-:|:-:|
-| [**Telegram**](https://t.me/RyanJoy2002) | [**Email**](mailto:ryanjoy2002@gmail.com) |
+| [**Telegram**](https://t.me/RyanJoy2002) | [**Email**](mailto:ryanjoy2002@gmail.com) | [Blog](https://blog.ryanjoy.top) | [Twitter/X](https://x.com/RyanJoy2002) |
+|:-:|:-:|:-:|:-:|
 
 ---
 
