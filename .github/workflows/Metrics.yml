@@ -66,10 +66,11 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_activity: yes
-          plugin_activity_limit: 1000
+          plugin_activity_limit: 18
           plugin_activity_days: 365
           plugin_activity_visibility: all
           plugin_activity_filter: all
+          plugin_activity_timestamps: yes
 
       - name: Comment reactions
         uses: lowlighter/metrics@latest
