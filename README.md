@@ -15,22 +15,22 @@ I am a master's student from China who enjoys all interesting projects and hopes
 
 ---
 
-| [Blog](https://blog.ryanjoy.top) | [Twitter/X](https://x.com/RyanJoy2002) | [Telegram](https://t.me/RyanJoy2002) | [Email](mailto:ryanjoy2002@gmail.com) |
-|:-:|:-:|:-:|:-:|
+| [Blog](https://blog.ryanjoy.top) | [Twitter/X](https://x.com/RyanJoy2002) | [Telegram](https://t.me/RyanJoy2002) | [Email](mailto:ryanjoy2002@gmail.com) | [Talks](https://talks.ryanjoy.top/) |
+|:-:|:-:|:-:|:-:|:-:|
 
 ---
 
 <p align="center">
   <a>
-    <img src="https://skillicons.dev/icons?i=ts,html,css,js,vue,py,cpp,cmake,cs,go,java,md,qt,threejs,mysql,nodejs,npm,pnpm,cloudflare,git,notion,obsidian,powershell,vim,vite,vitest" />
+    <img src="https://skillicons.dev/icons?i=ts,js,html,css,vue,vite,vitest,py,cpp,cs,cmake,go,java,md,qt,threejs,mysql,nodejs,npm,pnpm,cloudflare,git,notion,obsidian,powershell,blender,apple,latex," />
   </a>
 </p><br/>
 
-[<img src="/metrics.plugin.activity.svg" align="left" width="390"  />](#)
+<!-- [<img src="/metrics.plugin.activity.svg" align="left" width="390"  />](#) -->
 [<img src="/metrics.plugin.calendar.full.svg" align="right" width="390"  />](#)
 [<img src="/metrics.plugin.isocalendar.fullyear.svg" align="right" width="390" />](#)
 
-[<img src="/metrics.plugin.habits.charts.svg" align="right" width="390" />](#)
-[<img src="/metrics.plugin.reactions.svg" align="right" width="390" />](#)
+<!-- [<img src="/metrics.plugin.habits.charts.svg" align="right" width="390" />](#) -->
+<!-- [<img src="/metrics.plugin.reactions.svg" align="right" width="390" />](#) -->
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=get1024&theme=darcula" width="100%" />
