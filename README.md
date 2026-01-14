@@ -27,8 +27,8 @@ I am a master's student from China who enjoys all interesting projects and hopes
 </p><br/>
 
 <!-- [<img src="/metrics.plugin.activity.svg" align="left" width="390"  />](#) -->
-[<img src="/metrics.plugin.calendar.full.svg" align="right" width="430"  />](#)
-[<img src="/metrics.plugin.isocalendar.fullyear.svg" align="right" width="350" />](#)
+[<img src="/metrics.plugin.calendar.full.svg" align="right" width="340"  />](#)
+[<img src="/metrics.plugin.isocalendar.fullyear.svg" align="right" width="440" />](#)
 
 <!-- [<img src="/metrics.plugin.habits.charts.svg" align="right" width="390" />](#) -->
 <!-- [<img src="/metrics.plugin.reactions.svg" align="right" width="390" />](#) -->
