@@ -63,7 +63,9 @@ jobs:
           base: ""
           plugin_activity: yes
           plugin_activity_visibility: all
-          plugin_activity_filter: all
+          plugin_activity_filter: issue,pr,release,fork,review,discussion
+          plugin_activity_limit: 16
+          plugin_activity_days: 365
           plugin_activity_timestamps: yes
 
       - name: Comment reactions
