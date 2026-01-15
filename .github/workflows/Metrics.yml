@@ -23,7 +23,7 @@ jobs:
           plugin_isocalendar_duration: full-year
 
       - name: Mildly interesting facts
-        uses: EndBug/metrics@master
+        uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.habits.facts.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -34,7 +34,7 @@ jobs:
           config_timezone: Asia/Shanghai
 
       - name: Recent activity charts
-        uses: EndBug/metrics@master
+        uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.habits.charts.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -56,13 +56,12 @@ jobs:
           plugin_calendar_limit: 0
 
       - name: Recent activity
-        uses: EndBug/metrics@master
+        uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.activity.svg
           token: ${{ secrets.METRICS_TOKEN }}
           plugin_activity: yes
           plugin_activity_visibility: all
-          plugin_activity_filter: issue,pr,release,fork,review,discussion
           plugin_activity_limit: 40
           plugin_activity_days: 365
           plugin_activity_timestamps: yes
