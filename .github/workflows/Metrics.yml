@@ -18,6 +18,7 @@ jobs:
         with:
           filename: metrics.plugin.isocalendar.fullyear.svg
           token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
 
@@ -26,6 +27,7 @@ jobs:
         with:
           filename: metrics.plugin.habits.facts.svg
           token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
           plugin_habits: yes
           plugin_habits_facts: yes
           plugin_habits_charts: no
@@ -36,6 +38,7 @@ jobs:
         with:
           filename: metrics.plugin.habits.charts.svg
           token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
           plugin_habits: yes
           plugin_habits_facts: no
           plugin_habits_charts: yes
@@ -48,6 +51,7 @@ jobs:
         with:
           filename: metrics.plugin.calendar.full.svg
           token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
           plugin_calendar: yes
           plugin_calendar_limit: 0
 
@@ -56,6 +60,7 @@ jobs:
         with:
           filename: metrics.plugin.activity.svg
           token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
           plugin_activity: yes
           plugin_activity_visibility: all
           plugin_activity_limit: 40
@@ -68,6 +73,7 @@ jobs:
         with:
           filename: metrics.plugin.reactions.svg
           token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
           plugin_reactions: yes
           plugin_reactions_limit: 1000
           plugin_reactions_details: percentage
